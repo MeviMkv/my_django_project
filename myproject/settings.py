@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'legal_advisor_app',  # my app
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
